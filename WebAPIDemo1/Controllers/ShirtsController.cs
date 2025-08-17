@@ -1,9 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using WebAPIDemo1.Filters;
 using WebAPIDemo1.Filters.ActionFilters;
 using WebAPIDemo1.Models;
 using WebAPIDemo1.Models.Repositories;
-using WebAPIDemo1.Models.Validations;
+
 
 namespace WebAPIDemo1.Controllers
 {
